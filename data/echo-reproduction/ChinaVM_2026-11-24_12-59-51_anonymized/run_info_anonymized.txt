@@ -1,0 +1,17 @@
+run_id=ChinaVM_2026-11-24_12-59-51
+country_ssh=Beijing-VM
+country_ip=10.10.10.2
+reference_ip=10.10.10.1
+hostname=www.uyghurnet.org
+path=/www.uyghurnet.org
+dns_hostname=wikipedia.org
+quic_hostname=x.com
+censored_ip=172.217.18.14
+wait_existing=240
+wait_echo=240
+wait_mimick=240
+wait_esni=240
+existing_started=2026-11-24T21:29:28+01:00 jar_sha256=d582916c42d23e1d8323d5d4916d8673d39dc60e96715be41a2d11c4b454227c
+echo_started=2026-11-25T13:04:43+01:00 jar_sha256=23a6a9e75b36ad78b24b8b67986da9ed97c1dabde4ea62a03e57e310dd6b70ba
+echo_mimick_started=2026-11-25T19:48:42+01:00 jar_sha256=23a6a9e75b36ad78b24b8b67986da9ed97c1dabde4ea62a03e57e310dd6b70ba
+finished=2026-11-26T02:50:02+01:00

@@ -1,0 +1,13 @@
+run_id=RussiaVM_2026-11-23_17-55-48
+started=2026-11-23T17:56:04+01:00
+country_ssh=Russia-VM
+country_ip=10.10.10.6
+reference_ip=10.10.10.1
+hostname=www.mdif.org
+path=/janukowytsch
+dns_hostname=www.mdif.org
+censored_ip=91.218.214.111
+wait=0
+jar_sha256=a62e5e2f279e955e88d1d9859396890a8527ae07681d8dc652c02b6c3a5b1d49
+finished=2026-11-23T18:23:32+01:00
+echo_mimick_rerun=2026-11-24T06:54:55+01:00 wait=421

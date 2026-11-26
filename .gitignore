@@ -1,0 +1,35 @@
+resources/*.pem
+test.sh
+results_strength_*.txt
+results/*
+
+# (build) artifacts
+apps/
+target/
+
+# Eclipse
+**/.classpath
+**/.project
+**/.settings/
+.project
+
+# Netbeans
+nbproject/
+nbactions.xml.project
+nbactions.xml
+
+# IntelliJ
+.idea/
+*.iml
+
+# Maven
+**/pom.xml.*
+**/release.properties
+**/.flattened-pom.xml
+
+# VS Code
+.factorypath
+
+# Raw Echo reproduction runs contain unanonymized IPs, only *_anonymized copies may be committed
+data/echo-reproduction/*
+!data/echo-reproduction/*_anonymized/
